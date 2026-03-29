@@ -3,5 +3,3 @@ Artificial intelligence refers to computer systems that can perform tasks often 
 AI is powerful, but it is not magic. Systems can produce errors, reflect bias in training data, or fail when used outside the environment they were built for. Because of this, human oversight remains important. Strong review processes, testing standards, and clear guidelines help improve reliability and trust.
 
 The future of AI will likely depend on how responsibly it is developed and used. Good AI systems should not only be accurate, but also understandable, fair, and safe. As adoption increases, the most valuable skill may not be using AI blindly, but knowing when to trust it, question it, and improve it.
-
-Hello three
